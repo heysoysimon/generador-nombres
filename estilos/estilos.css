@@ -1,0 +1,32 @@
+
+body{
+    background: #f2f2f2;
+    
+}
+
+h1{
+    color: #fca311;
+}
+.perfil{
+    background: #f3d19a;
+    width: 100%;
+    padding: 10px;
+    -webkit-border-radius: 34px 34px 34px 34px;
+-moz-border-radius: 34px 34px 34px 34px;
+border-radius: 34px 34px 34px 34px;
+}
+
+.perfil img{
+    width: 20%;
+}
+.perfil h3{
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 10px;
+}
+#perfilHombre{
+    display: none;
+}
+#perfilMujer{
+    display: none;
+}
